@@ -2,13 +2,13 @@
 Portfolio aimed at all projects carried out in the period 2023B
 
 ## Awesome proyect
-I am a Computer Engineering student at CUAltos.
+I am a Computer Engineering student at UdeG.
 
-## Description
-I study the C++ and Python programming languages.
+## Programing Lenguages
+C++ and Python programming languages.
 
-## Hobbies
-I am dedicated to amateur music and photography
+# Hobbies
+I am dedicated to amateur music and photography.
 
 ```bash
 Musician/Photographer/Programmer
