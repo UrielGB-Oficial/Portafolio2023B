@@ -11,4 +11,4 @@ I study the C++ and Python programming languages.
 I am dedicated to amateur music and photography
 
 ```bash
-npm install 
+Musician/Photographer/Programmer
